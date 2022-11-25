@@ -1,0 +1,433 @@
+[
+    {
+        "keywords":  [
+            "Español",
+            "español",
+            "ESPAÑOL"
+        ],
+        "key": "STEP_1"
+    },
+    {
+        "keywords":  [
+            "Français",
+            "français",
+            "FRANCAIS"
+        ],
+        "key": "STEP_2"
+    },
+    {
+        "keywords":  [
+            "english.",
+            "English.",
+            "ENGLISH."
+        ],
+        "key": "STEP_3"
+    },
+    {
+        "keywords":  [
+            "Listo",
+            "listo",
+            "LISTO",
+            "Lista",
+            "lista",
+            "LISTA"
+                ],
+        "key": "STEP_1_1"
+    },
+    {
+        "keywords":  [
+            "Prêt",
+            "prêt",
+            "PRET ",
+            "pret,"
+                ],
+        "key": "STEP_2_1"
+    },
+    {
+        "keywords":  [
+            "Ready",
+            "ready",
+            "READY"
+                ],
+        "key": "STEP_3_1"
+    },
+
+    {
+        "keywords":  [
+            "Ya",
+            "ya",
+            "YA",
+            "ya "
+
+                ],
+        "key": "STEP_1_2"
+    },
+    {
+        "keywords":  [
+            "COMMENCER",
+            "commencer",
+            "Commencer"
+                ],
+        "key": "STEP_2_2"
+    },
+    {
+        "keywords":  [
+            "Ok",
+            "OK",
+            "ok"
+                ],
+        "key": "STEP_3_2"
+    },
+
+    {
+        "keywords":  [
+            "francesa",
+            "Francesa",
+            "otra",
+            "Otra",
+            "otro",
+            "Otro",
+            "OTRO"
+        ],
+        "key": "STEP_1_2_1"
+    },
+    {
+        "keywords":  [
+            "Française",
+            "française",
+            "Autre",
+            "autre",
+            "AUTRE"
+        ],
+        "key": "STEP_2_2_1"
+    },
+    {
+        "keywords":  [
+            "French",
+            "french",
+            "OTHER",
+            "Other",
+            "other"
+        ],
+        "key": "STEP_3_2_1"
+    },
+    {
+        "keywords":  [
+            "inglesa",
+            "Inglesa",
+            "mas",
+            "Mas",
+            "MAS",
+            "MÁS",
+            "más",
+            "Más"
+        ],
+        "key": "STEP_1_2_2"
+    },
+    {
+        "keywords":  [
+            "Anglaise",
+            "anglaise",
+            "Plus",
+            "plus",
+            "PLUS"
+        ],
+        "key": "STEP_2_2_2"
+    },
+    {
+        "keywords":  [
+            "English",
+            "english",
+            "More",
+            "more",
+            "MORE"
+        ],
+        "key": "STEP_3_2_2"
+    },
+    {
+        "keywords":  [
+            "Preescolar/Primaria",
+            "preescolar/primaria"
+        ],
+        "key": "STEP_1_2_1_1"
+    },
+    {
+        "keywords":  [
+            "Maternelle/Primaire",
+            "maternelle/primaire"
+        ],
+        "key": "STEP_2_2_1_1"
+    },
+    {
+        "keywords":  [
+            "Preschool/Primary",
+            "preschool/primary"
+        ],
+        "key": "STEP_3_2_1_1"
+    },
+    {
+        "keywords":  [
+            "Secundaria/Preparatoria",
+            "secundaria/preparatoria"
+        ],
+        "key": "STEP_1_2_1_2"
+    },
+    {
+        "keywords":  [
+            "College/Preparatoire",
+            "college/preparatoire"
+        ],
+        "key": "STEP_2_2_1_2"
+    },
+    {
+        "keywords":  [
+            "Junior High School/High School",
+            "junior high school/high school"
+        ],
+        "key": "STEP_3_2_1_2"
+    },
+
+    {
+        "keywords":  [
+            "Preescolar-Primaria",
+            "preescolar-primaria"
+        ],
+        "key": "STEP_1_2_2_1"
+    },
+    {
+        "keywords":  [
+            "Maternelle-Primaire",
+            "maternelle-primaire"
+        ],
+        "key": "STEP_2_2_2_1"
+    },
+    {
+        "keywords":  [
+            "Preschool-Primary",
+            "preschool-primary"
+        ],
+        "key": "STEP_3_2_2_1"
+    },
+    {
+        "keywords":  [
+            "Secundaria-Preparatoria",
+            "secundaria-preparatoria"
+        ],
+        "key": "STEP_1_2_2_2"
+    },
+    {
+        "keywords":  [
+            "College-Preparatoire",
+            "college-preparatoire"
+        ],
+        "key": "STEP_2_2_2_2"
+    },
+    {
+        "keywords":  [
+            "Junior High School-High School",
+            "junior high school-high school"
+        ],
+        "key": "STEP_3_2_2_2"
+    },
+  
+   
+{
+    "keywords":  [
+        "Siguiente",
+        "siguiente",
+        "SIGUIENTE"
+        
+    ],
+    "key": "STEP_1_4_1"
+},
+{
+    "keywords":  [
+        "Suivant",
+        "suivant",
+        "SUIVANT"
+        
+    ],
+    "key": "STEP_2_4_1"
+},
+{
+    "keywords":  [
+        "Next",
+        "next",
+        "NEXT"
+        
+    ],
+    "key": "STEP_3_4_1"
+},
+{
+    "keywords":  [
+        "Proximo",
+        "proximo",
+        "próximo",
+        "Próximo",
+        "PRÓXIMO"
+        
+    ],
+    "key": "STEP_1_4_2"
+},
+{
+    "keywords":  [
+        "je veux",
+        "Je veux",
+        "JE VEUX"
+        
+    ],
+    "key": "STEP_2_4_2"
+},
+{
+    "keywords":  [
+        "next to",
+        "NEXT TO",
+        "Next to"
+        
+    ],
+    "key": "STEP_3_4_2"
+},   
+    {
+        "keywords":  [
+            "Términos-Condiciones",
+            "términos-condiciones",
+            "terminos-condiciones"
+        ],
+        "key": "STEP_1_5_1"
+    },
+    {
+        "keywords":  [
+            "Modalités-conditions",
+            "modalités-conditions",
+            "modalites-conditions"
+        ],
+        "key": "STEP_2_5_1"
+    },
+    {
+        "keywords":  [
+            "Terms-Conditions",
+            "terms-conditions"
+        ],
+        "key": "STEP_3_5_1"
+    },
+
+    {
+        "keywords":  [
+            "Términos y Condiciones",
+            "términos y condiciones",
+            "terminos y condiciones"
+        ],
+        "key": "STEP_1_5_2"
+    },
+    {
+        "keywords":  [
+            "Modalités et conditions",
+            "modalités et conditions",
+            "modalites et conditions"
+        ],
+        "key": "STEP_2_5_2"
+    },
+    {
+        "keywords":  [
+            "Terms and Conditions",
+            "terms and conditions"
+        ],
+        "key": "STEP_3_5_2"
+    },
+  
+    {
+        "keywords":  [
+            "Continuar",
+            "continuar",
+            "CONTINUAR"
+        ],
+        "key": "STEP_1_6_1"
+    },
+    {
+        "keywords":  [
+            "Continuer",
+            "continuer",
+            "CONTINUER"
+        ],
+        "key": "STEP_2_6_1"
+    },
+    {
+        "keywords":  [
+            "Continue",
+            "continue",
+            "CONTINUE"
+        ],
+        "key": "STEP_3_6_1"
+    },
+
+    {
+        "keywords":  [
+            "Si",
+            "si",
+            "SI"
+        ],
+        "key": "STEP_1_6_2"
+    },
+    {
+        "keywords":  [
+            "Oui",
+            "oui",
+            "OUI"
+        ],
+        "key": "STEP_2_6_2"
+    },
+    {
+        "keywords":  [
+            "Yes",
+            "yes",
+            "YES"
+        ],
+        "key": "STEP_3_6_2"
+    },
+    {
+        "keywords":  [
+            "No",
+            "NO",
+            "no",
+            "Salir",
+            "salir",
+            "SALIR"
+            
+        ],
+        "key": "STEP_1_7"
+    },
+ 
+    {
+        "keywords":  [
+            "NON",
+            "non",
+            "Non",
+            "Sortie",
+            "sortie"
+            
+        ],
+        "key": "STEP_2_7"
+    },
+    {
+        "keywords":  [
+            "NOT",
+            "not",
+            "Not",
+            "Exit",
+            "exit"
+            
+        ],
+        "key": "STEP_3_7"
+    },
+  
+    {
+        "keywords":  [
+            "audio"
+        ],
+        "key": "STEP_8"
+    }
+   
+
+
+
+]
